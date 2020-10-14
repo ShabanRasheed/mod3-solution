@@ -1,0 +1,22 @@
+.navbar-nav {
+    margin: 0px -15px;
+}
+.nav>li {
+    background-color: #fafafa;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: #222;
+    border-bottom: 1px solid #222;
+}
+.navbar-inverse .navbar-nav>li>a:focus, .navbar-inverse .navbar-nav>li>a:hover {
+    color: #222;
+}
+.menu-detail{
+    background-color: #f1f1f1;
+    color: #222;
+    font-size: 16px;
+    word-spacing: 1px;
+    text-align: justify;
+    padding: 1rem 2rem;
+    margin-bottom: 30px;
+}
